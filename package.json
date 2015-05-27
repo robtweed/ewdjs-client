@@ -1,0 +1,17 @@
+{
+  "name": "ewdjs-client",
+  "description": "EWD.js Client for non-browser clients",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rob Tweed",
+    "email": "rtweed@mgateway.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robtweed/ewdjs-client.git"
+  },
+  "main": "./lib/EWD.js",
+  "licenses": [
+    "Apache"
+  ]
+}
