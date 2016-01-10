@@ -15,7 +15,7 @@ Google Group for discussions, support, advice etc: [http://groups.google.co.uk/g
 
 ## License
 
- Copyright (c) 2015 M/Gateway Developments Ltd,                           
+ Copyright (c) 2015-16 M/Gateway Developments Ltd,
  Reigate, Surrey UK.                                                      
  All rights reserved.                                                     
                                                                            
